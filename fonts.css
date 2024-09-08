@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --bgcol: linear-gradient(, #3333b5 80%, rgba(0, 0, 0, 0.794));
+  --text-col: #ff4e88;
+  --snow-col:#f8f6f7;
+  --milk-col:#ffffff;
+}
+@font-face{
+  font-family: 'matemasie';
+  src: url(Fonts/Matemasie/Matemasie-Regular.ttf) format(truetype);
+}
+@font-face{
+  font-family: 'Arch-Rival';
+  src: url(Fonts/Arch-Rival/SF_Arch_Rival_Bold-webfont.woff) format(truetype);
+}
+@font-face{
+  font-family: 'Action_Man';
+  src: url(Fonts/Action-Man/Action_Man_Shaded.ttf) format(truetype);
+}
